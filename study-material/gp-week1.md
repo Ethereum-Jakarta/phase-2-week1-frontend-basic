@@ -8,7 +8,7 @@ Github collab akan sangat dinilai disini, commit history dan PR wajib dilakukan 
 Repo frontend dan backend boleh dipisah dan boleh digabung juga.
 
 ## Submit Tugas
-Di Group Project kalian buat repo sendiri dan set up masing masing, nanti link githubnya bisa kalian taruh di PR week1 . nanti gua bakal schedule dan umumin untuk kalian demo group project ini ke semua anak RPN (Demo Stage).
+Di Group Project kalian buat repo sendiri dan set up masing masing, nanti link githubnya bisa kalian taruh di PR week1 . nanti gua bakal schedule dan umumin untuk kalian demo group project ini ke semua anak ETHJKT (Demo Stage).
 
 ## Backend
 Kalian boleh menggunakan zexo template backend atau menggunakan arsitektur backend lain

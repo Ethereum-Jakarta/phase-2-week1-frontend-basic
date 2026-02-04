@@ -158,7 +158,7 @@ link -> https://flexboxfroggy.com/
 ## Implementasi Flexbox ke website
 gua sudah nyiapin 2 material project untuk showcase ke kalian gimana cara kita implementasi layout flex ke frontend project. 
 
-download projectnya di https://github.com/RPN-Phase-2/Week1-Front-End-Basic/tree/main/project-material
+download projectnya di https://github.com/Ethereum-Jakarta/phase-2-week1-frontend-basic/tree/main/project-material
 
 <img src="https://github.com/user-attachments/assets/d5064006-24fa-44a6-b572-c7e88435e770" width="300" height="500">
 
